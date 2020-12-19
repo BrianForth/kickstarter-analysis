@@ -13,4 +13,8 @@ The second variable analyzed was the goal of the campaign, the amount of funding
 ![Outcomes by Goals](resources/Outcomes_vs_Goals.png)
 The graph above shows that play-funding campaigns seeking less than $1000 have the highest likelihood of success. Success rates drop slowly until the price tag hits $5000, and continues dropping until a price of $25000, after which success rates rise again, such that both the $35000-$39999 and $40000-$44999 ranges have almost the same success rate as a $5000 campaign.
 
+The data available lacked some parameters that might have been of interest to analyze, including length, in characters, of the campaign description, the number of updates during the campaign's run, and the value of reward tiers.
 
+Additional graphs that could provide some additional insight include graphing "outcome vs backer count" and "outcome vs average donation."
+
+In summary, based on the information analyzed, a campaign with a goal less than $5000 (and ideally less than $1000) started in May appears to have the greatest chance of success.
